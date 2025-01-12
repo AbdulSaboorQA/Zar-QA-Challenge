@@ -5,10 +5,9 @@ This repository contains automated tests for the ReqRes APIs. The tests are writ
 ## Table of Contents
 1. [Overview](#overview)
 2. [Prerequisites](#prerequisites)
-3. [Setting Up the Tests](#setting-up-the-tests)
-4. [Running the Tests](#running-the-tests)
-5. [Test Scenarios](#test-scenarios)
-6. [License](#license)
+3. [Setting Up and Running the Tests](#setting-up-the-tests)
+4. [Test Details](#test-details)
+6. [Test run Report](#test-run-report)
 
 ---
 
@@ -69,7 +68,7 @@ If you don't have Postman installed, download it from the Postman Download page.
 
 3.  Postman will execute the tests and display the results.
 
-### TEST DETAILS
+### Test Details
 
 This **ReqRes API Test Suite** is designed to validate and verify the functionality of the ReqRes API endpoints. The suite covers various API functionalities, organized into the following modules:
 
@@ -146,3 +145,9 @@ Tests to validate user deletion functionality, including edge cases:
         -   First Valid User ID Deletion
      
 There are a total of 65 test cases against these 5 endpoints and all of them ran successfully
+
+### Test Run Report
+
+Here is the visual representation of the latest test run results:
+
+![Test Run Report](assets/Test%20Run%20Report.png)
