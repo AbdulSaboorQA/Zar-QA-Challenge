@@ -150,4 +150,4 @@ There are a total of 65 test cases against these 5 endpoints and all of them ran
 
 Here is the visual representation of the latest test run results:
 
-![Test Run Report](assets/Test%20Run%20Report.png)
+![Test Run Report](./Test Run Report.png)
